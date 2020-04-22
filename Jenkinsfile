@@ -1,6 +1,5 @@
   node('JenkinsSlave') {
     // some block
-}
 
     stage('Clone repository') {
         /* Cloning the Repository to our Workspace */
