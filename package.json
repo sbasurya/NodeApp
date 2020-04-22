@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rchidana/NodeApp"
+    "url": "https://github.com/sbasurya/NodeApp"
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
-  "author": "crudsinfotechng@gmail.com",
+  "author": "sbasurya1801@gmail.com",
   "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
